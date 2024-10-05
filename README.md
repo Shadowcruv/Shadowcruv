@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Software Enginner/Programming Coach sharing about my journey and learning in tech
+- 🔭 Software Enginner/Programming Coach/Tech Skit Maker sharing about my journey and learning in tech
 - 🌱 Studied Computer Enginnering
 - 👯 Making videos about Computer programming, Tech skits, How to Code e.t.c
 - 🤔 I’m looking for help with ...
@@ -10,7 +10,6 @@
 - 📫 How to reach me: (email)[miracleihediwa@gmail.com] (linkedln)[www.linkedin.com/in/miracle-ihediwa]
 - ⚡ Fun fact: I'm a tech comedy skit maker, a lover of football and a gamer too
 
-[![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowcruv&count_private=true&show_icons=true&theme=radical&show=percentage&hide=stars,commits,prs,issues,contribs)](https://github.com/Shadowcruv/github-readme-stats)
 
 ## Tech Stack
 
@@ -41,3 +40,10 @@
 
 [![Intro to Connekt Academy](https://ytcards.demolab.com/?id=s4V8r8SXaMg&title=Intro+to_Connekt+Academy&lang=en&timestamp=1646765700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3540 "Connekt Academy")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/s4V8r8SXaMg))
 [![Variables in Java](https://ytcards.demolab.com/?id=B0zgjMbbsQw&title=Variables+in+Java&lang=en&timestamp=1646420100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2760 "Variables in Java")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/B0zgjMbbsQw))
+[![Modifiers,Constructors and Methods](https://ytcards.demolab.com/?id=BNG-_FpVfJU&title=Modifiers+Constructors+and+Methods&lang=en&timestamp=1647892500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3420 "Modifiers Constructors and Methods")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/BNG-_FpVfJU))
+[![Entering an interview with my calculator app be like🤣🤣](https://ytcards.demolab.com/?id=Qy3L_IiiWCQ&title=Entering+an+interview+with+my+calculator+app+be+like&lang=en&timestamp=1705607700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Entering an interview with my calculator app be like🤣🤣")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/Qy3L_IiiWCQ))
+[![THE NEW INTERN 🤣🤣](https://ytcards.demolab.com/?id=pt_Dw6ip5bQ&title=THE+NEW+INTERN+🤣+🤣&lang=en&timestamp=1717962900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "THE NEW INTERN 🤣🤣")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtube.com/shorts/pt_Dw6ip5bQ))
+[![Frontend vs Backend Developers🤣🤣](https://ytcards.demolab.com/?id=QKKYLwSZOLA&title=Frontend+vs+Backend+Developers🤣+🤣&lang=en&timestamp=1714766100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Frontend vs Backend Developers🤣🤣")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/QKKYLwSZOLA))
+
+
+[Click here to see more videos on my youtube channel](https://www.youtube.com/@hf_connekt)
