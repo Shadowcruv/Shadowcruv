@@ -5,7 +5,6 @@
 - 🔭 Software Enginner/Programming Coach/Tech Skit Maker sharing about my journey and learning in tech
 - 🌱 Studied Computer Enginnering
 - 👯 Making videos about Computer programming, Tech skits, How to Code e.t.c
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: (email)[miracleihediwa@gmail.com] (linkedln)[www.linkedin.com/in/miracle-ihediwa]
 - ⚡ Fun fact: I'm a tech comedy skit maker, a lover of football and a gamer too
