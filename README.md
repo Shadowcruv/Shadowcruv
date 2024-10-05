@@ -35,3 +35,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
+## SOME OF MY YOUTUBE VIDEOS
+
+[![Intro to Connekt Academy](https://ytcards.demolab.com/?id=s4V8r8SXaMg&title=Intro+to_Connekt+Academy&lang=en&timestamp=1646765700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3540 "Connekt Academy")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/s4V8r8SXaMg))
+[![Variables in Java](https://ytcards.demolab.com/?id=B0zgjMbbsQw&title=Variables+in+Java&lang=en&timestamp=1646420100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2760 "Variables in Java")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/B0zgjMbbsQw))
