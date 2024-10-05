@@ -11,3 +11,6 @@
 - ⚡ Fun fact: I'm a tech comedy skit maker, a lover of football and a gamer too
 
 [![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowcruv&count_private=true&show_icons=true&theme=radical)](https://github.com/Shadowcruv/github-readme-stats)
+
+Tech Stack
+GitHub Actions	![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
