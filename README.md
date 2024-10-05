@@ -10,4 +10,4 @@
 - 📫 How to reach me: (email)[miracleihediwa@gmail.com] (linkedln)[www.linkedin.com/in/miracle-ihediwa]
 - ⚡ Fun fact: I'm a tech comedy skit maker, a lover of football and a gamer too
 
-[![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowcruv)](https://github.com/shadowcruv/github-readme-stats)
+[![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowcruv)](https://github.com/Shadowcruv/github-readme-stats)
